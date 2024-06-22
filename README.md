@@ -50,6 +50,34 @@ graph TD;
     B-->D;
     C-->D;
 ```
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-90,35],
+              [-90,30],
+              [-85,30],
+              [-85,35],
+              [-90,35]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
+
+This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
 
 
 <!--
