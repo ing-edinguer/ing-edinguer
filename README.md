@@ -7,6 +7,12 @@ Soy **Ingeniero en Electrónica** con una **Maestría en Ciencias en Ingeniereí
 - 👨‍💻 Me gusta crear contenido en **[Geogebra](https://www.geogebra.org/)** usando las herramientas propias de la aplicación como la creación de objetos y animaciones con **python**
 - 📫 Cómo contactarme: [email](mailto:edinguer.va@pabellon.tecnm.mx)
 
+### Creando tablas
+| Commando | Descripción |
+| --- | --- |
+| `git status` | Lista todos los archivos *nuevos o modificados* |
+| `git diff` | Muestra las diferencias que **no han sido publicadas**. |
+
 <!--
 **ing-edinguer/ing-edinguer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
