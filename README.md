@@ -40,6 +40,18 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 ````
 Algo de código
 ````
+
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+
 <!--
 **ing-edinguer/ing-edinguer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
