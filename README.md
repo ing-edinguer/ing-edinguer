@@ -1,4 +1,6 @@
 ## Hola👋, soy @ing-edinguer
+![20240803_205902](https://github.com/user-attachments/assets/e8517c49-c678-4716-a401-821505e819cf)
+
 
 Soy **Ingeniero en Electrónica** con una **Maestría en Ciencias en Ingeniereía Eléctrica**. Me encanta la **Programación de microcontroladores y PLC** (Controladores Lógicos Programables), el diseño de **Sistemas de Control** (Automatización de procesos), el **Desarrollo Web** y el **Desarrollo de Aplicaciones Móviles**, sobretodo para interactuar con dispositivos electrónicos basados en **IoT**.
 
